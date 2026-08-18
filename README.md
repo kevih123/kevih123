@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kevin
 
-### Information and Communication Technologies Engineer
+### Information and Communication Technologies Engineering Student
 
 I'm an IT student and aspiring Software Developer passionate about building applications and learning new technologies.
 
